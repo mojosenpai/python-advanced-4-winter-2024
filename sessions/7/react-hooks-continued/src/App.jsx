@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
-import Memo from './components/Memo'
+import Storage from './components/Storage'
 
 function App() {
 
   return (
     <div>
-      <Memo />
+      <Storage />
     </div>
   )
 }
